@@ -46,7 +46,7 @@ const startServer = async () => {
     })
   );
 
-  mongoose.connect(MONGO_URI)
+  mongoose.connect(MONGO_URI, {dbName:'munshi'})
     .then(() => {
       console.log('Connected to MongoDB');
       app.listen(PORT, () => {
