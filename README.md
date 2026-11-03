@@ -4,6 +4,12 @@ Munshi Server is the backend engine for Munshi — an AI-powered conversational 
 
 Built with **Node.js**, **Express**, **Apollo Server (GraphQL)**, **MongoDB (Mongoose)**, and **Google Gemini AI**.
 
+Frontend Repository : https://github.com/suryansh-bhatnagar/munshi-client
+
+Backend Repository : https://github.com/suryansh-bhatnagar/munshi-server
+
+View Live : https://munshi-ai.duckdns.org/
+
 ---
 
 ## 🌟 Architecture Highlights
